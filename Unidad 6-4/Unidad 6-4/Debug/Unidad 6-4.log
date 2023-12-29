@@ -1,0 +1,29 @@
+﻿  Balazo.cpp
+  Disco.cpp
+  Juego.cpp
+C:\Jose\UNL\Tecnicatura DPVJ\Materias\1-2_Modelos y Algoritmos para VJs\9na semana\Unidad 6 - Practica\Unidad 6-4\Unidad 6-4\Juego.cpp(59,41): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=int
+          ]
+C:\Jose\UNL\Tecnicatura DPVJ\Materias\1-2_Modelos y Algoritmos para VJs\9na semana\Unidad 6 - Practica\Unidad 6-4\Unidad 6-4\Juego.cpp(59,30): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=int
+          ]
+C:\Jose\UNL\Tecnicatura DPVJ\Materias\1-2_Modelos y Algoritmos para VJs\9na semana\Unidad 6 - Practica\Unidad 6-4\Unidad 6-4\Juego.cpp(75,50): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=int
+          ]
+C:\Jose\UNL\Tecnicatura DPVJ\Materias\1-2_Modelos y Algoritmos para VJs\9na semana\Unidad 6 - Practica\Unidad 6-4\Unidad 6-4\Juego.cpp(75,33): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=int
+          ]
+  main.cpp
+C:\Jose\UNL\Tecnicatura DPVJ\Materias\1-2_Modelos y Algoritmos para VJs\9na semana\Unidad 6 - Practica\Unidad 6-4\Unidad 6-4\main.cpp(6,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Mira.cpp
+  Panel.cpp
+  Generando código...
+  Unidad 6-4.vcxproj -> C:\Jose\UNL\Tecnicatura DPVJ\Materias\1-2_Modelos y Algoritmos para VJs\9na semana\Unidad 6 - Practica\Unidad 6-4\Debug\Unidad 6-4.exe
